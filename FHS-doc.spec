@@ -2,7 +2,7 @@ Summary:	FHS (File Hierarchy Standard) %{version} documentation
 Summary(pl.UTF-8):	Dokumentacja standardu FHS (File Hierarchy Standard) %{version}
 Name:		FHS-doc
 Version:	3.0
-Release:	2
+Release:	3
 License:	distributable
 Group:		Documentation
 Source0:	http://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.html
